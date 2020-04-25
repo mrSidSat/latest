@@ -1,4 +1,7 @@
-
+.bottomfooter{
+  position:absolute;
+  top:2400px;
+}
 
 .background{
     background-color: #1F4E5F;
